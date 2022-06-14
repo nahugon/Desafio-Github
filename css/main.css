@@ -194,6 +194,32 @@ footer p{
   }
   
 
+  /*animaciones para el desafio  */
 
+.mainP :hover{
+  font-size: 50px;
+  
+    
+}
 
+.imagen1 :hover{
+  filter: grayscale(80%);
+  
 
+}
+
+.imagen2 :hover{
+  filter: grayscale(80%);
+  
+
+}
+
+.imagen3 :hover{
+  filter: grayscale(80%);
+  
+}
+
+.imagen4 :hover{
+  filter: grayscale(80%);
+  
+}
